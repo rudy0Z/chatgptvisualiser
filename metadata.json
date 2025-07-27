@@ -1,0 +1,5 @@
+{
+  "name": "Chat History Visualizer",
+  "description": "An interactive 3D graph to visualize your ChatGPT conversation history. Upload a CSV of your chat data to see your conversations as a network of nodes, and use AI to summarize conversation threads.",
+  "requestFramePermissions": []
+}
