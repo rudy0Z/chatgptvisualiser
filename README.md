@@ -1,8 +1,8 @@
 # ChatGPT Visualiser 🌟
 
-An immersive 3D visualisation tool for exploring ChatGPT conversation histories. Transform your AI chat data into beautiful interactive networks with force-directed physics and stunning visual effects.
+An immersive 3D visualisation tool for exploring ChatGPT conversation histories. Just for fun visualisation
 
-🚀 **[Live Demo](https://chatgptvisualiser.vercel.app)**
+🚀 **[Live on Vercel](https://chatgptvisualiser.vercel.app)**
 
 ![3D Visualisation Demo](https://img.shields.io/badge/3D-Visualisation-blue) ![React](https://img.shields.io/badge/React-TypeScript-blue) ![Three.js](https://img.shields.io/badge/Three.js-3D-green) ![Vercel](https://img.shields.io/badge/Deployed-Vercel-black)
 
@@ -11,9 +11,6 @@ An immersive 3D visualisation tool for exploring ChatGPT conversation histories.
 - 🎮 **Immersive 3D Navigation** - WASD + Q/Z controls for smooth camera movement
 - 🌟 **Beautiful Visual Effects** - Atmospheric glow effects with bloom post-processing
 - 📱 **Responsive Design** - Works seamlessly across all devices and screen sizes
-- 🔄 **Force-Directed Physics** - Dynamic node positioning with realistic physics simulation
-- 🎯 **Interactive Exploration** - Click and drag nodes, zoom in/out naturally
-- 🌙 **Fullscreen Mode** - Immersive F-key fullscreen with hidden UI
 - 📊 **Smart Data Processing** - Automatic CSV conversion from ChatGPT JSON exports
 
 ## 🚀 Quick Start
@@ -56,7 +53,6 @@ An immersive 3D visualisation tool for exploring ChatGPT conversation histories.
 | `D` | Move right |
 | `Q` | Move up |
 | `Z` | Move down |
-| `F` | Toggle fullscreen mode |
 | `Mouse` | Look around / Rotate camera |
 | `Scroll` | Zoom in/out |
 | `Click & Drag` | Interact with nodes |
@@ -141,7 +137,7 @@ npm run build
 - Adjust `moveSpeed` variable in the movement handler
 
 **Q: Fullscreen mode not working**
-- Try F-key instead of F11 browser fullscreen
+- Try F11-key instead of F
 - Check if browser permissions block fullscreen
 
 **Q: CSV conversion fails**
