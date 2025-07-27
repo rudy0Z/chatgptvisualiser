@@ -2,7 +2,9 @@
 
 An immersive 3D visualisation tool for exploring ChatGPT conversation histories. Transform your AI chat data into beautiful interactive networks with force-directed physics and stunning visual effects.
 
-![3D Visualisation Demo](https://img.shields.io/badge/3D-Visualisation-blue) ![React](https://img.shields.io/badge/React-TypeScript-blue) ![Three.js](https://img.shields.io/badge/Three.js-3D-green)
+🚀 **[Live Demo](https://chatgptvisualiser.vercel.app)** | 📊 **[GitHub](https://github.com/rudy0Z/chatgptvisualiser)**
+
+![3D Visualisation Demo](https://img.shields.io/badge/3D-Visualisation-blue) ![React](https://img.shields.io/badge/React-TypeScript-blue) ![Three.js](https://img.shields.io/badge/Three.js-3D-green) ![Vercel](https://img.shields.io/badge/Deployed-Vercel-black)
 
 ## ✨ Features
 
